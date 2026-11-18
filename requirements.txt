@@ -3,5 +3,3 @@ python-dotenv
 openai-agents
 fastapi
 pydantic
-
-git remote add origin https://github.com/denniswang10/OPENAI-SDK.git
